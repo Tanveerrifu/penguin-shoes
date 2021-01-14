@@ -1,14 +1,26 @@
 .shopping-btn {
     color: white;
-    background-color: #92AC2C;
+    background-color: #3D4FF3;
     border: 0;
     border-radius: 7px;
     padding: 10px 10px;
     margin-right: 15px;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+
+li {
+    padding-left: 20px;
+    font-weight: 600;
 }
 
 .btn img {
     width: 15%;
+}
+
+.card-img-top img {
+    border-radius: 20px;
 }
 
 .casual-shoes {
@@ -16,4 +28,77 @@
     border-radius: 20px;
     background-color: #FFFFFF;
     padding-bottom: 10px;
+}
+
+#browser-img img {
+    width: 100%;
+
+    margin-bottom: 30px;
+}
+
+.features {
+    /* height: 600px; */
+    padding-top: 100px;
+    margin-bottom: 20px;
+
+
+}
+
+.icons {
+    width: 100%;
+    height: 120px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
+
+.icons img {
+    width: 40%;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+h5 {
+    margin-top: 20px;
+    color: #363958;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+h1 {
+    color: #FA804C;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.blue-color-text,
+h3 {
+    color: #363958;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+
+#footer {
+    display: block;
+    margin: 0 auto;
+    height: 220px;
+    width: 100%;
+
+}
+
+.footer-tag {
+    display: block;
+    text-align: center;
+    height: 30px;
+    padding-bottom: 80px;
+}
+
+.casual-shoes {
+    width: 100%;
+    height: 400px;
+    padding: 10px;
+
+
+
+
 }
